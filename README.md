@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Videc Leinyuy
-- 👀 I’m interested in web development
+- 👀 Interested in web development
 - 🌱 I’m currently learning fullstack web development
 - 💞️ I’m looking to collaborate on projects to help me learn and improve my skills.
 - 📫 You can reach me via videcleinyuy@gmail.com
